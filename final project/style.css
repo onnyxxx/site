@@ -1,0 +1,117 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+
+
+.nav {
+    justify-content: center;
+    background-color: black;
+}
+
+.nav-link-active {
+    color: white;
+}
+
+.container {
+    padding: 50px;
+}
+
+hr {
+    width: 1200px;
+}
+
+#pre-history {
+    font-size: 25px;
+    font-family: "Roboto+Slab" sans-serif;
+}
+
+
+#sod ul {
+    color: brown;
+    font-family: "Roboto+Slab" sans-serif;
+    font-size: 25px;
+    
+}
+
+
+
+nav a {
+    text-decoration: none;
+    color: brown;
+}
+
+nav a:hover {
+    color: darkgray;
+}
+
+p {
+    font-family: "Roboto+Slab" sans-serif;
+    font-size: 25px;
+}
+
+h2 {
+    color: silver;
+}
+
+#polosa {
+    padding: 5px;
+}
+
+#third {
+    padding: 5px;
+}
+
+section ul {
+    color: brown;
+    font-size: 25px;
+    font-family: "Roboto+Slab" sans-serif;
+}
+
+#pervpc {
+    width: 1250px;
+}
+
+#foto {
+    font-family: none;
+}
+
+#vidos {
+    width: 1250px;
+}
+
+#sixth a {
+    text-decoration: none;
+    font-family: "Roboto+Slab" sans-serif;
+    font-size: 25px;
+    color: brown;
+}
+
+#text1 p {
+    color: black;
+    
+}
+
+#text2 p {
+    color: black;
+    
+}
+
+#text3 p {
+    color: black;
+    
+}
+
+#text4 p {
+    color: black;
+    
+}
+
+footer a {
+    text-decoration: none;
+    font-family: "Roboto+Slab" sans-serif;
+    font-size: 25px;
+    color: brown;
+}
+
+footer a:hover {
+    color: darkgray;
+}
